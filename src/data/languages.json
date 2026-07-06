@@ -1,0 +1,41 @@
+{
+  "id": "languages",
+  "title": "Language Papers",
+  "subtitle": "Qualifying compulsory papers (English and any selected Indian Language) that candidates must pass.",
+  "subjects": [
+    {
+      "id": "lang-english",
+      "name": "Compulsory English Paper",
+      "topics": [
+        {
+          "id": "lang-eng-core",
+          "name": "English Language Skills",
+          "items": [
+            { "id": "lang-eng-essay", "text": "Essay writing on a given topic (100 marks)", "importance": "High", "difficulty": "Medium" },
+            { "id": "lang-eng-comprehension", "text": "Reading Comprehension and answering questions based on passage (75 marks)", "importance": "High", "difficulty": "Easy" },
+            { "id": "lang-eng-precis", "text": "Précis writing - summarizing a long passage into 1/3rd words (75 marks)", "importance": "High", "difficulty": "Hard" },
+            { "id": "lang-eng-grammar", "text": "Usage and Vocabulary: Sentence correction, antonyms, synonyms, idioms (50 marks)", "importance": "Medium", "difficulty": "Medium" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lang-indian",
+      "name": "Selected Indian Language Paper",
+      "topics": [
+        {
+          "id": "lang-ind-core",
+          "name": "Indian Language Skills (e.g., Hindi, Marathi, Tamil, etc.)",
+          "items": [
+            { "id": "lang-ind-essay", "text": "Essay writing in the chosen Indian language (100 marks)", "importance": "High", "difficulty": "Medium" },
+            { "id": "lang-ind-comprehension", "text": "Reading Comprehension in the chosen language (60 marks)", "importance": "High", "difficulty": "Easy" },
+            { "id": "lang-ind-precis", "text": "Précis writing in the chosen language (60 marks)", "importance": "High", "difficulty": "Hard" },
+            { "id": "lang-ind-translation-1", "text": "Translation from English to the chosen Indian language (20 marks)", "importance": "Medium", "difficulty": "Medium" },
+            { "id": "lang-ind-translation-2", "text": "Translation from the chosen Indian language to English (20 marks)", "importance": "Medium", "difficulty": "Medium" },
+            { "id": "lang-ind-grammar", "text": "Grammar, usage, and idioms in the chosen Indian language (40 marks)", "importance": "Medium", "difficulty": "Medium" }
+          ]
+        }
+      ]
+    }
+  ]
+}

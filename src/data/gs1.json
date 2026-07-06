@@ -1,0 +1,137 @@
+{
+  "id": "gs1",
+  "title": "GS Paper I",
+  "subtitle": "Indian Heritage and Culture, History and Geography of the World and Society",
+  "subjects": [
+    {
+      "id": "gs1-culture",
+      "name": "Indian Heritage & Culture",
+      "topics": [
+        {
+          "id": "gs1-culture-sculpture",
+          "name": "Sculptural Art & Architecture",
+          "items": [
+            { "id": "gs1-culture-sculpture-harappan", "text": "Sculptures of Harappan Civilisation & Town Planning", "importance": "High", "difficulty": "Easy" },
+            { "id": "gs1-culture-sculpture-mauryan", "text": "Sculptures of Mauryan Age, Pillars, and Rock-cut Caves", "importance": "High", "difficulty": "Medium" },
+            { "id": "gs1-culture-sculpture-buddhist", "text": "Buddhist and Jain Sculpture (Gandhara, Mathura, and Amravati schools)", "importance": "High", "difficulty": "Hard" },
+            { "id": "gs1-culture-architecture-temple", "text": "Temple Architecture (Nagara, Dravida, Vesara styles, Odisha, Chola, Hoysala)", "importance": "High", "difficulty": "Hard" },
+            { "id": "gs1-culture-architecture-islamic", "text": "Indo-Islamic Architecture (Imperial Delhi Sultanate, Mughal, and Provincial)", "importance": "High", "difficulty": "Medium" },
+            { "id": "gs1-culture-architecture-modern", "text": "Modern Architecture (European influence and Indo-Saracenic Architecture)", "importance": "Medium", "difficulty": "Medium" }
+          ]
+        },
+        {
+          "id": "gs1-culture-paintings-music",
+          "name": "Paintings, Music, Literature & Performing Arts",
+          "items": [
+            { "id": "gs1-culture-paintings-mural", "text": "Tradition of Mural Paintings (Ajanta, Ellora, Bagh) and Miniature Paintings", "importance": "High", "difficulty": "Hard" },
+            { "id": "gs1-culture-music-dance", "text": "Main Pillars of Indian Music, Classical Dance Forms, and Folk Dances", "importance": "Medium", "difficulty": "Medium" },
+            { "id": "gs1-culture-theatre-puppetry", "text": "Indian Theatre (Classical Sanskrit, Regional) and Puppetry Traditions", "importance": "Low", "difficulty": "Medium" },
+            { "id": "gs1-culture-religions-bhakti", "text": "Religions in India & Bhakti & Sufi Movements (Saints, Philosophy)", "importance": "High", "difficulty": "Hard" },
+            { "id": "gs1-culture-literature-ancient", "text": "Sanskrit, Pali, Prakrit, and Sangam/Tamil Literature", "importance": "High", "difficulty": "Hard" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gs1-history",
+      "name": "History of India & World",
+      "topics": [
+        {
+          "id": "gs1-history-ancient-medieval",
+          "name": "Ancient & Medieval India",
+          "items": [
+            { "id": "gs1-history-prehistoric", "text": "Pre Historic Cultures (Palaeolithic, Mesolithic, Neolithic, Chalcolithic, Iron Age)", "importance": "Medium", "difficulty": "Medium" },
+            { "id": "gs1-history-indus-valley", "text": "Indus Valley Civilization (Cities, Trade, Society, Religion, Decline)", "importance": "High", "difficulty": "Easy" },
+            { "id": "gs1-history-vedic-period", "text": "Vedic Society (Texts, Upanishads, Polity, Social Organisation, Varna System)", "importance": "Medium", "difficulty": "Medium" },
+            { "id": "gs1-history-guptas-harsha", "text": "Imperial Guptas & Harshavardhana (Administration, Art, Economy, Society)", "importance": "High", "difficulty": "Medium" },
+            { "id": "gs1-history-medieval-dynasties", "text": "Early Medieval Dynasties (Pratiharas, Palas, Rashtrakutas, Rajputs, Feudalism)", "importance": "Medium", "difficulty": "Hard" },
+            { "id": "gs1-history-delhi-sultanate", "text": "The Delhi Sultanate (1206-1526 AD) (Slave, Khalji, Tughlaq, Lodi Dynasties)", "importance": "High", "difficulty": "Medium" },
+            { "id": "gs1-history-mughal-empire", "text": "The Mughal Empire (Akbar's Administration, Deccan Policies, Aurangzeb's Reign)", "importance": "High", "difficulty": "Medium" },
+            { "id": "gs1-history-vijayanagar", "text": "Vijayanagar & Bahmani Kingdoms (Political, Social, and Cultural Life)", "importance": "High", "difficulty": "Medium" }
+          ]
+        },
+        {
+          "id": "gs1-history-modern",
+          "name": "Modern Indian History (Mid-18th Century to 1947)",
+          "items": [
+            { "id": "gs1-history-british-conquest", "text": "Advent of Europeans, British Conquest, and Consolidation (Plassey, Buxar)", "importance": "High", "difficulty": "Easy" },
+            { "id": "gs1-history-revolt-1857", "text": "The Revolt of 1857 (Causes, Leaders, Suppression, Consequences)", "importance": "High", "difficulty": "Easy" },
+            { "id": "gs1-history-early-nationalism", "text": "Early Nationalism (Pre-Congress Orgs, Indian National Congress formation)", "importance": "High", "difficulty": "Easy" },
+            { "id": "gs1-history-gandhian-era", "text": "Emergence of Gandhi and Mass Movements (NCM, Civil Disobedience, Quit India)", "importance": "High", "difficulty": "Medium" },
+            { "id": "gs1-history-partition", "text": "Partition of India (Wavell Plan, Cabinet Mission, Mountbatten Plan, Independence)", "importance": "High", "difficulty": "Medium" },
+            { "id": "gs1-history-social-reform", "text": "Indian Renaissance & Socio-Religious Reform Movements (Raja Ram Mohan Roy, etc.)", "importance": "High", "difficulty": "Easy" }
+          ]
+        },
+        {
+          "id": "gs1-history-post-independence",
+          "name": "Post-Independence Consolidation",
+          "items": [
+            { "id": "gs1-history-post-integration", "text": "Re-organisation & Integration of States (Princely States, J&K, Hyderabad)", "importance": "High", "difficulty": "Medium" },
+            { "id": "gs1-history-post-linguistic", "text": "Linguistic Regionalism and Tribal/Caste Integration Policies", "importance": "Medium", "difficulty": "Hard" },
+            { "id": "gs1-history-post-economic", "text": "Overview of Economic Development (Five Year Plans, Land Reforms, S&T Policy)", "importance": "Medium", "difficulty": "Medium" }
+          ]
+        },
+        {
+          "id": "gs1-history-world",
+          "name": "World History (18th Century onwards)",
+          "items": [
+            { "id": "gs1-history-world-revolutions", "text": "Industrial Revolution, American Revolution, and French Revolution (Causes, Impacts)", "importance": "High", "difficulty": "Medium" },
+            { "id": "gs1-history-world-nationalism", "text": "Nationalism in Europe (Unification of Italy and Germany, Rise of Nation-States)", "importance": "Medium", "difficulty": "Hard" },
+            { "id": "gs1-history-world-colonialism", "text": "Colonialism and Imperialism in Asia & Africa (De-colonization phases)", "importance": "High", "difficulty": "Medium" },
+            { "id": "gs1-history-world-wars", "text": "World War I, World War II, Russian Revolution, and the Cold War", "importance": "High", "difficulty": "Medium" },
+            { "id": "gs1-history-world-ideologies", "text": "Political Philosophies (Capitalism, Socialism, Communism - Concepts, Relevance)", "importance": "High", "difficulty": "Hard" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gs1-society",
+      "name": "Indian Society",
+      "topics": [
+        {
+          "id": "gs1-society-features",
+          "name": "Salient Features & Issues of Indian Society",
+          "items": [
+            { "id": "gs1-society-salient", "text": "Salient features of Indian Society & Diversity of India", "importance": "High", "difficulty": "Easy" },
+            { "id": "gs1-society-women", "text": "Role of Women & Women's Organizations (Issues, Status, Empowerment)", "importance": "High", "difficulty": "Medium" },
+            { "id": "gs1-society-poverty", "text": "Poverty and Developmental Issues (Causes, Schemes, Critical analysis)", "importance": "High", "difficulty": "Medium" },
+            { "id": "gs1-society-globalization", "text": "Effects of Globalization on Indian Society (Social, Cultural, Economic)", "importance": "High", "difficulty": "Medium" },
+            { "id": "gs1-society-social-empowerment", "text": "Social Empowerment, Communalism, Secularism, and Regionalism", "importance": "High", "difficulty": "Hard" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gs1-geography",
+      "name": "Geography of the World",
+      "topics": [
+        {
+          "id": "gs1-geography-physical",
+          "name": "Physical Geography (Geomorphology, Climatology, Oceanography)",
+          "items": [
+            { "id": "gs1-geography-earth", "text": "Origin of Earth, Interior of Earth (Crust, Mantle, Core, Seismic Waves)", "importance": "Medium", "difficulty": "Medium" },
+            { "id": "gs1-geography-tectonics", "text": "Continental Drift Theory, Plate Tectonics, and Mountain/Volcano/Tsunami landforms", "importance": "High", "difficulty": "Medium" },
+            { "id": "gs1-geography-geomorphic", "text": "Geomorphic Processes (Weathering, Mass movements, Erosion & Deposition)", "importance": "Medium", "difficulty": "Hard" },
+            { "id": "gs1-geography-atmosphere", "text": "Composition & Structure of Atmosphere, Heat Balance, Pressure Belts, Winds", "importance": "High", "difficulty": "Hard" },
+            { "id": "gs1-geography-cyclones", "text": "Air Masses, Fronts, Jet Streams, Tropical & Temperate Cyclones", "importance": "High", "difficulty": "Hard" },
+            { "id": "gs1-geography-ocean", "text": "Ocean Relief, Salinity, Temperature Distribution, Waves, Tides & Ocean Currents", "importance": "High", "difficulty": "Hard" },
+            { "id": "gs1-geography-soil-veg", "text": "Soil Characteristics & Vegetation Resources (Forests, Deforestation, Conservation)", "importance": "Medium", "difficulty": "Medium" }
+          ]
+        },
+        {
+          "id": "gs1-geography-india-human",
+          "name": "Geography of India & Human/Economic Geography",
+          "items": [
+            { "id": "gs1-geography-india-physiography", "text": "Physiography of India (Himalayas, Peninsular Block, Indo-Ganga Plains)", "importance": "High", "difficulty": "Medium" },
+            { "id": "gs1-geography-india-drainage", "text": "Drainage Systems of India (Himalayan rivers: Indus, Ganga, Brahmaputra & Peninsular)", "importance": "High", "difficulty": "Hard" },
+            { "id": "gs1-geography-india-monsoon", "text": "Indian Monsoon (Mechanisms, Jet Stream theory, El Nino & La Nina impacts)", "importance": "High", "difficulty": "Hard" },
+            { "id": "gs1-geography-demography", "text": "Demography & Census (Population distribution, Literacy, Age-sex ratio, Migration)", "importance": "High", "difficulty": "Easy" },
+            { "id": "gs1-geography-urbanization", "text": "Urbanization (Issues, Slums, Transport, Poverty, Smart Cities)", "importance": "High", "difficulty": "Medium" },
+            { "id": "gs1-geography-resources", "text": "Distribution of Key Natural Resources (Minerals, Coal, Petroleum, Renewable Energy)", "importance": "High", "difficulty": "Hard" },
+            { "id": "gs1-geography-industry-loc", "text": "Factors influencing Location of Industries (Iron & Steel, Textile, Chemicals, IT)", "importance": "High", "difficulty": "Hard" }
+          ]
+        }
+      ]
+    }
+  ]
+}

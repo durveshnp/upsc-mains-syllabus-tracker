@@ -1,0 +1,38 @@
+{
+  "id": "interview",
+  "title": "Interview (Personality Test)",
+  "subtitle": "Track DAF analysis, personal profiling, mock sessions, and interactive skills assessment.",
+  "subjects": [
+    {
+      "id": "int-daf",
+      "name": "Detailed Application Form (DAF) Prep",
+      "topics": [
+        {
+          "id": "int-daf-profile",
+          "name": "Personal Profile & History",
+          "items": [
+            { "id": "int-daf-name-state", "text": "DAF State, District, Town context (History, culture, geography, economics, and famous issues of your home place)", "importance": "High", "difficulty": "Medium" },
+            { "id": "int-daf-education", "text": "Educational Background (Detailed review of college graduation subject, core theories, applications)", "importance": "High", "difficulty": "Hard" },
+            { "id": "int-daf-hobbies", "text": "Hobbies, Interests, and Extracurricular activities (Substantive study of rules, history, current news related to hobbies)", "importance": "High", "difficulty": "Medium" },
+            { "id": "int-daf-preferences", "text": "Service Preferences & Cadre Choices (Justifications for rankings, why IAS/IFS/IPS, challenges, cadre policies)", "importance": "High", "difficulty": "Easy" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "int-softskills",
+      "name": "Personality & Presentation Skills",
+      "topics": [
+        {
+          "id": "int-skills-delivery",
+          "name": "Interactive Aptitude",
+          "items": [
+            { "id": "int-skill-expression", "text": "Clarity of expression, non-confrontational delivery, and balanced intellectual posture", "importance": "High", "difficulty": "Medium" },
+            { "id": "int-skill-stress", "text": "Dealing with stress questions, admitting limits of knowledge elegantly, and maintaining composure", "importance": "High", "difficulty": "Hard" },
+            { "id": "int-skill-mocks", "text": "Participating in Mock Interviews (at least 3-5 sessions) and taking constructive feedback", "importance": "High", "difficulty": "Hard" }
+          ]
+        }
+      ]
+    }
+  ]
+}

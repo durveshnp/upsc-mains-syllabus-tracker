@@ -1,0 +1,81 @@
+{
+  "id": "gs4",
+  "title": "GS Paper IV",
+  "subtitle": "Ethics, Integrity, and Aptitude",
+  "subjects": [
+    {
+      "id": "gs4-ethics",
+      "name": "Ethics & Human Interface",
+      "topics": [
+        {
+          "id": "gs4-ethics-intro",
+          "name": "Ethics Foundations & Human Values",
+          "items": [
+            { "id": "gs4-eth-essence", "text": "Essence, determinants, and consequences of Ethics in human actions; dimensions of ethics", "importance": "High", "difficulty": "Medium" },
+            { "id": "gs4-eth-public-private", "text": "Ethics in private and public relationships; Values and Ethics in government", "importance": "High", "difficulty": "Medium" },
+            { "id": "gs4-eth-human-values", "text": "Human Values: Lessons from the lives and teachings of great leaders, reformers, and administrators", "importance": "High", "difficulty": "Easy" },
+            { "id": "gs4-eth-socialization", "text": "Role of family, society, and educational institutions in inculcating values", "importance": "Medium", "difficulty": "Easy" }
+          ]
+        },
+        {
+          "id": "gs4-ethics-attitude",
+          "name": "Attitude & Emotional Intelligence",
+          "items": [
+            { "id": "gs4-att-components", "text": "Attitude: Content, structure, function; its influence and relation with thought and behaviour", "importance": "High", "difficulty": "Medium" },
+            { "id": "gs4-att-moral-political", "text": "Moral and political attitudes; social influence and persuasion tactics", "importance": "High", "difficulty": "Hard" },
+            { "id": "gs4-ei-concept", "text": "Emotional Intelligence: Concepts, utility, and application in administration and governance", "importance": "High", "difficulty": "Medium" },
+            { "id": "gs4-ei-competencies", "text": "EI Competencies: Self-awareness cluster, self-management cluster, social awareness, relationship management", "importance": "High", "difficulty": "Medium" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gs4-values",
+      "name": "Civil Service Values & Thinkers",
+      "topics": [
+        {
+          "id": "gs4-values-aptitude",
+          "name": "Aptitude & Foundational Values",
+          "items": [
+            { "id": "gs4-val-foundations", "text": "Aptitude and foundational values for Civil Service (Integrity, Impartiality, Non-partisanship, Objectivity)", "importance": "High", "difficulty": "Hard" },
+            { "id": "gs4-val-compassion", "text": "Dedication to public service, empathy, tolerance, and compassion towards the weaker sections", "importance": "High", "difficulty": "Medium" },
+            { "id": "gs4-val-accountability", "text": "Civil Services Accountability, neutrality, anonymity, and professional ethics", "importance": "High", "difficulty": "Medium" }
+          ]
+        },
+        {
+          "id": "gs4-thinkers-philosophers",
+          "name": "Thinkers & Philosophers",
+          "items": [
+            { "id": "gs4-thinkers-indian", "text": "Contributions of moral thinkers and philosophers from India (Mahatma Gandhi, Radhakrishnan, Tagore, Vivekananda, Ambedkar)", "importance": "High", "difficulty": "Medium" },
+            { "id": "gs4-thinkers-western", "text": "Contributions of moral thinkers from the World (Socrates, Plato, Aristotle, Kant, Mill, Locke, Rousseau, Marx)", "importance": "Medium", "difficulty": "Hard" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gs4-probity",
+      "name": "Probity in Governance & Case Studies",
+      "topics": [
+        {
+          "id": "gs4-probity-governance",
+          "name": "Probity, Public Service & Codes",
+          "items": [
+            { "id": "gs4-prob-concept", "text": "Concept of public service; Philosophical basis of governance and probity", "importance": "High", "difficulty": "Hard" },
+            { "id": "gs4-prob-rti", "text": "Information sharing and transparency in government, Right to Information (RTI) act and flaws", "importance": "High", "difficulty": "Medium" },
+            { "id": "gs4-prob-codes", "text": "Codes of Ethics, Codes of Conduct, Citizen's Charters, and Work Culture", "importance": "High", "difficulty": "Medium" },
+            { "id": "gs4-prob-corruption", "text": "Challenges of Corruption (extents, dimensions, response, whistleblowers, public funds utilization)", "importance": "High", "difficulty": "Medium" }
+          ]
+        },
+        {
+          "id": "gs4-ethics-applied",
+          "name": "Applied Ethics & Case Studies",
+          "items": [
+            { "id": "gs4-applied-euthanasia", "text": "Applied Ethics: Euthanasia, Surrogacy, Environmental ethics, Business/Corporate ethics", "importance": "Medium", "difficulty": "Hard" },
+            { "id": "gs4-applied-media", "text": "Media & Sports Ethics: Digital Media, Paid News, Doping, sportsmanship", "importance": "Medium", "difficulty": "Medium" },
+            { "id": "gs4-case-studies", "text": "Case Studies on all the above areas (Solving administrative ethical dilemmas, public interest decisions)", "importance": "High", "difficulty": "Hard" }
+          ]
+        }
+      ]
+    }
+  ]
+}

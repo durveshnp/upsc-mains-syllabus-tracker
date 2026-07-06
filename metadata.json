@@ -1,0 +1,6 @@
+{
+  "name": "UPSC Mains Syllabus Tracker",
+  "description": "A highly detailed, elegant static syllabus tracker for the UPSC Civil Services Mains Examination, designed for long-term preparation with checklist items, progress analytics, notes, bookmarks, and local browser persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

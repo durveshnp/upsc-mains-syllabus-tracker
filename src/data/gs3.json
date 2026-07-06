@@ -1,0 +1,115 @@
+{
+  "id": "gs3",
+  "title": "GS Paper III",
+  "subtitle": "Technology, Economic Development, Bio-diversity, Environment, Security and Disaster Management",
+  "subjects": [
+    {
+      "id": "gs3-economy",
+      "name": "Indian Economy & Planning",
+      "topics": [
+        {
+          "id": "gs3-economy-growth",
+          "name": "Economic Growth & Mobilization",
+          "items": [
+            { "id": "gs3-economy-planning", "text": "Indian Economy and issues relating to Planning, Resource Mobilization, Growth, Development, and Employment", "importance": "High", "difficulty": "Medium" },
+            { "id": "gs3-economy-inclusive", "text": "Inclusive Growth and issues arising from it (Financial Inclusion, Poverty Alleviation, Social Sector initiatives)", "importance": "High", "difficulty": "Medium" },
+            { "id": "gs3-economy-budgeting", "text": "Government Budgeting (Terminology, Features of outcome budgeting, Subsidies, Deficit Financing, Fiscal policy)", "importance": "High", "difficulty": "Hard" },
+            { "id": "gs3-economy-taxation", "text": "Taxation Structure in India, Direct/Indirect Taxes, GST Reforms, and Retrospective Taxation", "importance": "High", "difficulty": "Hard" },
+            { "id": "gs3-economy-banking", "text": "Monetary Policy, Reserve Bank of India, Structure of Banking system, NPAs, and Banking Sector Reforms", "importance": "High", "difficulty": "Hard" },
+            { "id": "gs3-economy-investment", "text": "Investment Models (Domestic, Foreign, FDI, FII, Public-Private Partnership - PPP models)", "importance": "Medium", "difficulty": "Medium" }
+          ]
+        },
+        {
+          "id": "gs3-economy-infrastructure",
+          "name": "Infrastructure & Industry",
+          "items": [
+            { "id": "gs3-economy-infra-modes", "text": "Infrastructure: Energy, Ports, Roads, Airports, Railways, Pipelines, and Gati Shakti Plan", "importance": "High", "difficulty": "Medium" },
+            { "id": "gs3-economy-industrial-policy", "text": "Industrial Policy & Development, Phases of industrial growth, Liberalization impacts, and MSME sector", "importance": "High", "difficulty": "Medium" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gs3-agriculture",
+      "name": "Agriculture & Food Security",
+      "topics": [
+        {
+          "id": "gs3-agri-production",
+          "name": "Agricultural Production & Marketing",
+          "items": [
+            { "id": "gs3-agri-cropping", "text": "Major Crops & Cropping Patterns in various parts of the country, Irrigation types, and transport of produce", "importance": "High", "difficulty": "Medium" },
+            { "id": "gs3-agri-subsidies", "text": "Issues related to Direct and Indirect Farm Subsidies and Minimum Support Prices (MSP), PDS objectives & working", "importance": "High", "difficulty": "Hard" },
+            { "id": "gs3-agri-marketing", "text": "Agricultural Marketing in India, APMC Act analysis, e-NAM, and supply chain constraints", "importance": "High", "difficulty": "Hard" },
+            { "id": "gs3-agri-reforms", "text": "Land Reforms in India since independence (Zamindari abolition, tenancy reforms, ceiling legislations)", "importance": "Medium", "difficulty": "Medium" }
+          ]
+        },
+        {
+          "id": "gs3-agri-food-processing",
+          "name": "Food Processing & Allied Sectors",
+          "items": [
+            { "id": "gs3-agri-food-industries", "text": "Food processing and related industries in India (Scope, Significance, Location, Upstream/Downstream requirements)", "importance": "High", "difficulty": "Medium" },
+            { "id": "gs3-agri-allied", "text": "Economics of animal-rearing and technological interventions (Biotech-KISAN, e-technology for farmers)", "importance": "Medium", "difficulty": "Easy" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gs3-science",
+      "name": "Science & Technology",
+      "topics": [
+        {
+          "id": "gs3-science-development",
+          "name": "S&T Policies & Indigenization",
+          "items": [
+            { "id": "gs3-science-indigenization", "text": "Science & Technology developments and their applications in everyday life, Indigenization of technology", "importance": "High", "difficulty": "Medium" },
+            { "id": "gs3-science-achievements", "text": "Achievements of Indians in Science & Technology, Nobel Laureates, and research institutions", "importance": "Medium", "difficulty": "Easy" },
+            { "id": "gs3-science-ipr", "text": "Awareness in fields of IT, Space, Computers, Robotics, Nanotechnology, Biotechnology, and issues relating to Intellectual Property Rights (IPR)", "importance": "High", "difficulty": "Hard" }
+          ]
+        },
+        {
+          "id": "gs3-science-domains",
+          "name": "Space, Defence & Nuclear S&T",
+          "items": [
+            { "id": "gs3-science-space", "text": "Space S&T: Orbits, Launch Vehicles (PSLV, GSLV, SSLV), Space Missions (Chandrayaan, Gaganyaan, Aditya L1)", "importance": "High", "difficulty": "Medium" },
+            { "id": "gs3-science-defence", "text": "Defence S&T: Missile Systems (Ballistic, Cruise), Integrated Guided Missile Program, Cyber/Drone technologies", "importance": "High", "difficulty": "Medium" },
+            { "id": "gs3-science-nuclear", "text": "Nuclear Energy: Nuclear reactions, Reactors (Pressurized Heavy Water Reactors, Fast Breeder Reactors), Policy of India", "importance": "High", "difficulty": "Medium" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gs3-environment",
+      "name": "Environment, Security & Disaster Management",
+      "topics": [
+        {
+          "id": "gs3-env-ecology",
+          "name": "Environment & Biodiversity Basics",
+          "items": [
+            { "id": "gs3-env-conservation", "text": "Conservation, Environmental Pollution and Degradation (Air, Water, Soil, Plastic Waste, E-Waste)", "importance": "High", "difficulty": "Medium" },
+            { "id": "gs3-env-eia", "text": "Environmental Impact Assessment (EIA) process and legislative backing", "importance": "High", "difficulty": "Hard" },
+            { "id": "gs3-env-climate-change", "text": "Climate Change, UNFCCC/COP goals, Montreal Protocol, Paris Agreement, and Carbon Farming", "importance": "High", "difficulty": "Hard" }
+          ]
+        },
+        {
+          "id": "gs3-env-disaster",
+          "name": "Disaster Management & Preparedness",
+          "items": [
+            { "id": "gs3-dm-mitigation", "text": "Disaster Management: Natural & Man-made Disasters, Vulnerability Profile of India, Sendai Framework", "importance": "High", "difficulty": "Medium" },
+            { "id": "gs3-dm-agencies", "text": "NDMA, NDMP, NDRF role, and disaster mitigation strategies (Earthquakes, Floods, Cyclones, Landslides)", "importance": "High", "difficulty": "Medium" }
+          ]
+        },
+        {
+          "id": "gs3-security-internal",
+          "name": "Internal Security Challenges",
+          "items": [
+            { "id": "gs3-sec-extremism", "text": "Linkages between Development and Spread of Extremism (Naxalism/Left-Wing Extremism)", "importance": "High", "difficulty": "Medium" },
+            { "id": "gs3-sec-external", "text": "Role of External State and Non-State Actors in creating challenges to Internal Security (Terrorism, Insurgency in NE)", "importance": "High", "difficulty": "Medium" },
+            { "id": "gs3-sec-cyber", "text": "Challenges to Internal Security through Communication Networks, Role of Media and Social Networking, Cyber Security basics, Money Laundering", "importance": "High", "difficulty": "Hard" },
+            { "id": "gs3-sec-border", "text": "Security challenges in Border areas, Border Management (maritime, land borders, fence systems), and Organized Crime linkages", "importance": "High", "difficulty": "Hard" },
+            { "id": "gs3-sec-forces", "text": "Various Security Forces and Agencies and their Mandate (Assam Rifles, BSF, ITBP, CISF, CRPF, NSG)", "importance": "High", "difficulty": "Easy" }
+          ]
+        }
+      ]
+    }
+  ]
+}

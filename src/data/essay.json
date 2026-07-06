@@ -1,0 +1,58 @@
+{
+  "id": "essay",
+  "title": "Essay Paper",
+  "subtitle": "Candidates are required to write essays on multiple topics, exploring diverse perspectives.",
+  "subjects": [
+    {
+      "id": "essay-skills",
+      "name": "Core Essay Skills",
+      "topics": [
+        {
+          "id": "essay-skills-foundations",
+          "name": "Structure & Writing Foundations",
+          "items": [
+            { "id": "essay-skill-brainstorming", "text": "Brainstorming and Multi-dimensional mapping (PESTLE, Temporal, Stakeholder analysis)", "importance": "High", "difficulty": "Medium" },
+            { "id": "essay-skill-outline", "text": "Creating a cohesive Outline, Thesis Statement, and Logical flow", "importance": "High", "difficulty": "Medium" },
+            { "id": "essay-skill-intro", "text": "Crafting engaging Introductions (Anecdotes, Quotes, Historical context, Questions)", "importance": "High", "difficulty": "Easy" },
+            { "id": "essay-skill-body", "text": "Developing Body Paragraphs with smooth transitions and strong argument-example pairings", "importance": "High", "difficulty": "Medium" },
+            { "id": "essay-skill-conclusion", "text": "Drafting futuristic, balanced Conclusions with actionable solutions", "importance": "High", "difficulty": "Easy" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "essay-themes",
+      "name": "Key Essay Themes",
+      "topics": [
+        {
+          "id": "essay-theme-philosophical",
+          "name": "Philosophical & Abstract Themes",
+          "items": [
+            { "id": "essay-phil-mindfulness", "text": "Values, Morality, and Character-centric quotes", "importance": "High", "difficulty": "Hard" },
+            { "id": "essay-phil-science-humanity", "text": "Science without Humanity, Knowledge without Character, Commerce without Morality", "importance": "High", "difficulty": "Hard" },
+            { "id": "essay-phil-freedom", "text": "Individual Freedom, Rights, and Social Responsibility", "importance": "Medium", "difficulty": "Hard" }
+          ]
+        },
+        {
+          "id": "essay-theme-socio-economic",
+          "name": "Socio-Economic & Development Themes",
+          "items": [
+            { "id": "essay-se-women-empowerment", "text": "Women Empowerment, Gender Equality, and Social Justice", "importance": "High", "difficulty": "Medium" },
+            { "id": "essay-se-poverty-growth", "text": "Poverty, Economic Inequality, and Sustainable Inclusive Development", "importance": "High", "difficulty": "Medium" },
+            { "id": "essay-se-education-health", "text": "Education, Health, and Human Resource Development in India", "importance": "High", "difficulty": "Easy" },
+            { "id": "essay-se-globalisation", "text": "Globalization vs Nationalism, Cultural Identity, and Social Media impact", "importance": "Medium", "difficulty": "Medium" }
+          ]
+        },
+        {
+          "id": "essay-theme-polity",
+          "name": "Polity, Governance, and Technology Themes",
+          "items": [
+            { "id": "essay-pol-democracy", "text": "Democracy, Decentralisation, and Citizen-centric Governance", "importance": "High", "difficulty": "Medium" },
+            { "id": "essay-pol-tech-ai", "text": "Artificial Intelligence, Digital Public Infrastructure, and Tech for Good", "importance": "High", "difficulty": "Medium" },
+            { "id": "essay-pol-environment", "text": "Climate Change, Environmental Ethics, and Green Energy Transition", "importance": "High", "difficulty": "Medium" }
+          ]
+        }
+      ]
+    }
+  ]
+}

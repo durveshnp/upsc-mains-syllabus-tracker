@@ -1,0 +1,102 @@
+{
+  "id": "gs2",
+  "title": "GS Paper II",
+  "subtitle": "Governance, Constitution, Polity, Social Justice and International Relations",
+  "subjects": [
+    {
+      "id": "gs2-polity",
+      "name": "Polity & Constitution",
+      "topics": [
+        {
+          "id": "gs2-polity-foundations",
+          "name": "Constitutional Foundations",
+          "items": [
+            { "id": "gs2-polity-evolution", "text": "Historical Evolution, Constituent Assembly, and Objectives of the Constitution", "importance": "High", "difficulty": "Easy" },
+            { "id": "gs2-polity-salient", "text": "Salient Features of the Indian Constitution, Unitary and Federal Features", "importance": "High", "difficulty": "Medium" },
+            { "id": "gs2-polity-preamble", "text": "Preamble (Key terminologies: Sovereign, Socialist, Secular, Democratic, Republic, Justice, Liberty)", "importance": "High", "difficulty": "Easy" },
+            { "id": "gs2-polity-citizenship", "text": "Citizenship (Provisions, OCI, PIO, Dual citizenship concepts)", "importance": "Medium", "difficulty": "Medium" },
+            { "id": "gs2-polity-fr", "text": "Fundamental Rights (Significance, Writs, Limitations, Article 32)", "importance": "High", "difficulty": "Hard" },
+            { "id": "gs2-polity-dpsp", "text": "Directive Principles of State Policy (DPSP) and Fundamental Duties", "importance": "High", "difficulty": "Medium" },
+            { "id": "gs2-polity-amendment", "text": "Amendment of the Constitution & Basic Structure Doctrine (Evolution, Cases)", "importance": "High", "difficulty": "Hard" }
+          ]
+        },
+        {
+          "id": "gs2-polity-organs",
+          "name": "Organs of State & Separation of Powers",
+          "items": [
+            { "id": "gs2-polity-separation", "text": "Separation of Powers, Checks and Balances in the Indian Constitution vs US/UK", "importance": "High", "difficulty": "Medium" },
+            { "id": "gs2-polity-executive", "text": "The Executive (President, Vice-President, Prime Minister, Council of Ministers, Attorney General)", "importance": "High", "difficulty": "Medium" },
+            { "id": "gs2-polity-parliament", "text": "Parliament and State Legislatures (Structure, Conduct of Business, Powers, Privileges, Dissolution)", "importance": "High", "difficulty": "Hard" },
+            { "id": "gs2-polity-judiciary", "text": "The Judiciary (Integrated Judicial System, Supreme Court, High Courts, Collegium System, Judicial Activism, PIL)", "importance": "High", "difficulty": "Hard" },
+            { "id": "gs2-polity-local", "text": "Local Government (73rd and 74th Constitutional Amendment Acts, Devolution of Finances, Issues)", "importance": "High", "difficulty": "Hard" }
+          ]
+        },
+        {
+          "id": "gs2-polity-bodies",
+          "name": "Constitutional & Non-Constitutional Bodies",
+          "items": [
+            { "id": "gs2-polity-bodies-const", "text": "Constitutional Bodies (Election Commission, UPSC, SPSC, Finance Commission, GST Council, CAG)", "importance": "High", "difficulty": "Medium" },
+            { "id": "gs2-polity-bodies-nonconst", "text": "Non-Constitutional Bodies (NITI Aayog, NHRC, CVC, CBI, Lokpal and Lokayuktas)", "importance": "High", "difficulty": "Medium" },
+            { "id": "gs2-polity-bodies-statutory", "text": "Statutory, Regulatory and various Quasi-Judicial Bodies (SEBI, IRDA, Tribunal, NCLAT)", "importance": "Medium", "difficulty": "Hard" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gs2-governance",
+      "name": "Governance & Public Policy",
+      "topics": [
+        {
+          "id": "gs2-governance-policies",
+          "name": "Government Policies & Accountability",
+          "items": [
+            { "id": "gs2-governance-intervention", "text": "Government Interventions for Development, Good Governance, Transparency", "importance": "High", "difficulty": "Medium" },
+            { "id": "gs2-governance-shg-ngo", "text": "Development Processes and Industry (Role of NGOs, SHGs, Donor agencies, Charities)", "importance": "High", "difficulty": "Medium" },
+            { "id": "gs2-governance-accountability", "text": "Citizen Charters, Transparency, Accountability, and Institutional Measures (Ombudsman, Whistleblowers)", "importance": "High", "difficulty": "Medium" },
+            { "id": "gs1-governance-egov", "text": "e-Governance (Applications, Models, Successes, Limitations, Future prospects)", "importance": "High", "difficulty": "Easy" },
+            { "id": "gs2-governance-civilservices", "text": "Role of Civil Services in a Democracy (Policy formulation, Implementation, Neutrality, Reforms)", "importance": "High", "difficulty": "Hard" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gs2-social-justice",
+      "name": "Social Justice",
+      "topics": [
+        {
+          "id": "gs2-sj-vulnerable",
+          "name": "Welfare Schemes & Human Development",
+          "items": [
+            { "id": "gs2-sj-schemes", "text": "Welfare Schemes for Vulnerable Sections (SC, ST, OBC, Women, Children, Disabled, Migrants)", "importance": "High", "difficulty": "Medium" },
+            { "id": "gs2-sj-health-edu", "text": "Services relating to Health, Education, and Human Resources development", "importance": "High", "difficulty": "Medium" },
+            { "id": "gs2-sj-poverty", "text": "Issues relating to Poverty, Hunger, Malnutrition, and Unemployment (National Food Security Act)", "importance": "High", "difficulty": "Medium" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gs2-ir",
+      "name": "International Relations",
+      "topics": [
+        {
+          "id": "gs2-ir-foreignpolicy",
+          "name": "Indian Foreign Policy & Neighborhood",
+          "items": [
+            { "id": "gs2-ir-principles", "text": "Determinants of Foreign Policy, Non-Aligned Movement (NAM), Panchsheel, Nuclear Doctrine", "importance": "High", "difficulty": "Medium" },
+            { "id": "gs2-ir-neighbours", "text": "Bilateral relations with Neighbours (Indo-Pak, Indo-China, India-Nepal, Bangladesh, Sri Lanka, Maldives)", "importance": "High", "difficulty": "Hard" },
+            { "id": "gs2-ir-diaspora", "text": "Indian Diaspora (Role played, Safety, Schemes for Overseas Indians)", "importance": "Medium", "difficulty": "Easy" }
+          ]
+        },
+        {
+          "id": "gs2-ir-global",
+          "name": "Global Relations & Multilateral Forums",
+          "items": [
+            { "id": "gs2-ir-majorpowers", "text": "Bilateral Relations with Major Powers (Indo-USA, Indo-Russia, Indo-Japan, Indo-Europe, Indo-Africa)", "importance": "High", "difficulty": "Medium" },
+            { "id": "gs2-ir-groupings", "text": "Regional & Global Groupings (QUAD, BRICS, BIMSTEC, G20, ASEAN, G7, Shanghai Cooperation Organisation)", "importance": "High", "difficulty": "Medium" },
+            { "id": "gs2-ir-institutions", "text": "Global Institutions (United Nations, WTO, IMF, World Bank, WHO, International Court of Justice)", "importance": "High", "difficulty": "Medium" }
+          ]
+        }
+      ]
+    }
+  ]
+}

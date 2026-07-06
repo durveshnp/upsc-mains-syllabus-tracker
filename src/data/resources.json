@@ -1,0 +1,46 @@
+[
+  {
+    "id": "res-gs1",
+    "paper": "GS Paper I",
+    "materials": [
+      { "category": "Art & Culture", "resources": ["An Introduction to Indian Art Class XI NCERT", "Indian Art and Culture by Nitin Singhania"] },
+      { "category": "Ancient & Medieval History", "resources": ["Old NCERTs by RS Sharma and Satish Chandra", "Tamil Nadu Board Class XI History Book"] },
+      { "category": "Modern History", "resources": ["A Brief History of Modern India by Spectrum Publications", "India's Struggle for Independence by Bipan Chandra"] },
+      { "category": "World History", "resources": ["Mastering Modern World History by Norman Lowe", "Story of Civilization Class IX & X NCERTs by Arjun Dev"] },
+      { "category": "Geography", "resources": ["Class XI and XII Geography NCERTs (4 Books)", "Certificate Physical and Human Geography by GC Leong"] },
+      { "category": "Indian Society", "resources": ["Class XI & XII Sociology NCERTs", "Social Problems in India by Ram Ahuja", "Current Affairs reports on vulnerable sections"] }
+    ]
+  },
+  {
+    "id": "res-gs2",
+    "paper": "GS Paper II",
+    "materials": [
+      { "category": "Indian Polity", "resources": ["Indian Polity by M. Laxmikanth", "Introduction to the Constitution of India by DD Basu"] },
+      { "category": "Governance", "resources": ["2nd Administrative Reforms Commission (ARC) Reports (1st, 4th, 9th, 10th, 11th, 12th)", "Yojana and Kurukshetra Magazines", "NITI Aayog Three Year Action Agenda"] },
+      { "category": "Social Justice", "resources": ["Economic Survey chapters on Social Infrastructure", "Government schemes portal (Vikaspedia)", "UN and NITI Aayog report summaries"] },
+      { "category": "International Relations", "resources": ["Does the Elephant Dance? by David M. Malone", "MEA website briefs (India and Neighbours)", "Challenge and Strategy: Rethinking India's Foreign Policy by Rajiv Sikri"] }
+    ]
+  },
+  {
+    "id": "res-gs3",
+    "paper": "GS Paper III",
+    "materials": [
+      { "category": "Indian Economy", "resources": ["Indian Economy by Ramesh Singh or Nitin Singhania", "Economic Survey & Union Budget of India (Latest)", "Mrunal Patel lectures / notes"] },
+      { "category": "Agriculture", "resources": ["Economic Survey (Agriculture chapter)", "Kurukshetra Magazine on Rural Development", "NITI Aayog reports on doubling farmers' income"] },
+      { "category": "Science & Technology", "resources": ["The Hindu S&T section", "ISRO, DRDO official websites", "Monthly current affairs magazines"] },
+      { "category": "Environment", "resources": ["Ecology & Environment by Shankar IAS Academy", "Ministry of Environment, Forest & Climate Change (MoEFCC) updates", "UNEP, IPCC report highlights"] },
+      { "category": "Disaster Management", "resources": ["NDMA Guidelines on diverse disasters", "CBSE Class XI textbook on Disaster Management", "2nd ARC Report on Crisis Management"] },
+      { "category": "Internal Security", "resources": ["Challenges to Internal Security of India by Ashok Kumar & Vipul Anekant", "IDSA (Institute for Defence Studies and Analyses) articles", "Ministry of Home Affairs (MHA) reports"] }
+    ]
+  },
+  {
+    "id": "res-gs4",
+    "paper": "GS Paper IV",
+    "materials": [
+      { "category": "Ethics & Aptitude", "resources": ["Lexicon for Ethics, Integrity & Aptitude", "Ethics, Integrity & Aptitude by G. Subba Rao & PN Roy Chowdhury"] },
+      { "category": "Thinkers & Philosophers", "resources": ["Western and Indian philosophers chapter notes", "IGNOU Sociology and Philosophy materials"] },
+      { "category": "Probity in Governance", "resources": ["2nd ARC 4th Report - Ethics in Governance", "Citizen's Charters handbook", "Central Vigilance Commission (CVC) reports"] },
+      { "category": "Case Studies", "resources": ["Previous years' UPSC GS-IV papers", "Real-world ethical dilemmas from public administration cases"] }
+    ]
+  }
+]
